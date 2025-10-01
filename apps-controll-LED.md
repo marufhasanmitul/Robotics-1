@@ -1,6 +1,7 @@
 # Use Module
 - HC 06
 - Arduino
+- Use android apps--https://play.google.com/store/apps/details?id=com.iot71.bluetoothterminal
 
  # Connection
  
